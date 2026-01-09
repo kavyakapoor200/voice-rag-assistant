@@ -2,7 +2,7 @@
 
 A production-style **Voice Retrieval-Augmented Generation (RAG)** system that answers user questions **strictly from uploaded audio content**, ensuring **hallucination-free responses** using LLMs.
 
-🔗 **Live Demo**: Hugging Face Spaces (link in About section)
+🔗 **Live Demo**: (https://huggingface.co/spaces/kavyakapoor123/voice-rag-assistant)
 
 ---
 
