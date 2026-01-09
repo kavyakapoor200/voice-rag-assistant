@@ -1,6 +1,6 @@
 # 🎙️ Voice-based RAG Assistant
 
-A voice-enabled Retrieval-Augmented Generation (RAG) application that answers user queries **strictly from uploaded audio content**, ensuring accurate, hallucination-free responses using LLMs.
+A production-style Voice RAG system that answers questions strictly from uploaded audio using LLMs, ensuring hallucination-free responses.
 
 ---
 
